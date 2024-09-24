@@ -34,7 +34,7 @@ March 2023 – October 2023
 September 2022 – Present <br>
 BSc Software Engineering (Year 2)
 
-Relevant coursework:
+Relevant courses:
 - How to Learn a new Language,
 - Foundations of Professional Software Engineering,
 - Object Oriented Programming,
@@ -43,17 +43,19 @@ Relevant coursework:
 <br>
 
 **Duncanrig Secondary** <br>
-Highers
+Relevant courses:
+- A in Higher Computing Science and Advanced Graphic Comm
+- B in Higher Maths and English
+- Design Engineering Construct
+- Games Development
 
-- A in Computing Science
-- B in Graphic Communication, Maths, English
 
 <br>
 <hr>
 
 ### Skills
 
-Technical Skills:
+**Technical Skills:**
 - TypeScript, HTML (Pug/Jade), CSS (SCSS)
 - Angular, Node.js, Express.js, Ionic
 - Photoshop, Illustrator, Affinity Suite
@@ -63,7 +65,7 @@ Technical Skills:
 - Figma
 - Git
 
-Soft Skills:
+**Soft Skills:**
 - Problem-solving and analytical skills
 - Strong communication and teamwork
 - Adaptable and quick to learn new technologies
